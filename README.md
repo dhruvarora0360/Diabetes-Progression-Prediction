@@ -38,7 +38,7 @@
 
 🚀 ##Skills Gained
 
-#Supervised Machine Learning (Regression)
+# ( LinearRegression)
 
 #Data Preprocessing & EDA
 

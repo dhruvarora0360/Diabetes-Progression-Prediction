@@ -1,47 +1,47 @@
 📌 Project Overview
 
-This project uses the Diabetes dataset from sklearn.datasets to predict the progression of diabetes based on 10 clinical features. It demonstrates end-to-end supervised machine learning using regression techniques.
+#This project uses the Diabetes dataset from sklearn.datasets to predict the progression of diabetes based on 10 clinical features. It demonstrates end-to-end supervised machine learning using regression techniques.
 
 🔎 Key Steps
 
-Data Exploration: Feature distributions, correlation heatmap, scatter plots
+#Data Exploration: Feature distributions, correlation heatmap, scatter plots
 
-Preprocessing: Train-test split, scaling with StandardScaler
+#Preprocessing: Train-test split, scaling with StandardScaler
 
-Model Training:
+#Model Training:
 
-Linear Regression
+#Linear Regression
 
-Ridge Regression (with CV for alpha tuning)
+#Ridge Regression (with CV for alpha tuning)
 
-Lasso Regression (with CV for alpha tuning)
+#Lasso Regression (with CV for alpha tuning)
 
-Evaluation:
+#Evaluation:
 
-Mean Squared Error (MSE)
+#Mean Squared Error (MSE)
 
-Mean Absolute Error (MAE)
+#Mean Absolute Error (MAE)
 
-R² Score
+#R² Score
 
-Model Comparison: Tabular + visualization of performance
+#Model Comparison: Tabular + visualization of performance
 
-Feature Importance: Analysis of influential features using coefficients
+#Feature Importance: Analysis of influential features using coefficients
 
-📊 Results
+📊 ##Results
 
-Ridge/Lasso gave better stability than simple Linear Regression.
+#Ridge/Lasso gave better stability than simple Linear Regression.
 
-Best model selected based on cross-validation R² score.
+#Best model selected based on cross-validation R² score.
 
-Top features influencing target: BMI, Blood Pressure, and S5 (serum measurements).
+#Top features influencing target: BMI, Blood Pressure, and S5 (serum measurements).
 
-🚀 Skills Gained
+🚀 ##Skills Gained
 
-Supervised Machine Learning (Regression)
+#Supervised Machine Learning (Regression)
 
-Data Preprocessing & EDA
+#Data Preprocessing & EDA
 
-Model Selection & Hyperparameter Tuning
+#Model Selection & Hyperparameter Tuning
 
-Evaluation Metrics & Cross-Validation
+#Evaluation Metrics & Cross-Validation
